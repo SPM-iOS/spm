@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "name": "SPM — Official Shortcuts Package Registry",
+    "url": "https://shortcutspackagemanager.vercel.app",
+    "maintainer": "shortcutspackageman",
+    "version": 1,
+    "generatedAt": "2026-05-04T00:00:00Z"
+  },
+  "searchIndex": {},
+  "packages": []
+}

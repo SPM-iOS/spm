@@ -1,0 +1,15 @@
+Traceback (most recent call last):
+  File "/home/codespace/.python/current/lib/python3.12/plistlib.py", line 483, in parse
+    self._fp.seek(offset_table_offset)
+ValueError: cannot fit 'int' into an offset-sized integer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "<string>", line 3, in <module>
+  File "/home/codespace/.python/current/lib/python3.12/plistlib.py", line 884, in load
+    return p.parse(fp)
+           ^^^^^^^^^^^
+  File "/home/codespace/.python/current/lib/python3.12/plistlib.py", line 490, in parse
+    raise InvalidFileException()
+plistlib.InvalidFileException: Invalid file
